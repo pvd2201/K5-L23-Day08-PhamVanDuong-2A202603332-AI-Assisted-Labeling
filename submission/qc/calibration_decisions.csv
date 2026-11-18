@@ -1,1 +1,4 @@
 case_id,image,nguon,van_de,quyet_dinh,quy_tac_ghi_vao_guideline,phien_ban_guideline
+CAL-01,img_017.jpg,loi_may,"YOLO26 gán tuk-tuk thành car/truck; YOLOE tìm được nhưng box còn lỏng","Dùng YOLOE làm pre-label cho three_wheeler; người duyệt xác nhận lớp và chỉnh box","Mục 2: xác định lớp theo hình thái; kiểm tra và chỉnh box thủ công",v1.1
+CAL-02,img_013.jpg,cau_hoi_mo,"Câu hỏi mở 4: người trong xe ba bánh có mui; SAM mask còn gồm người lái","Gán người là person riêng; không tự chấp nhận mask gộp người và xe, chỉnh thủ công","Mục 4.2: loại người nhìn thấy khỏi mask phương tiện; chỉnh mask khi SAM gộp đối tượng",v1.1
+CAL-03,img_029.jpg|img_026.jpg,bay_lot,"Hai bẫy loose bị lọt vì chưa kiểm tra độ khít box","Kiểm tra đủ bốn cạnh và loại phần nền thừa trước khi chấp nhận","Mục 4.1: kiểm tra độ khít box",v1.1

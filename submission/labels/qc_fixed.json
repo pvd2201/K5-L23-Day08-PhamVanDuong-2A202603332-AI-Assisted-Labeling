@@ -1,0 +1,118 @@
+{
+  "images": [
+    {
+      "id": 21,
+      "width": 1024,
+      "height": 682,
+      "file_name": "img_031.jpg",
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    }
+  ],
+  "annotations": [
+    {
+      "id": 495,
+      "image_id": 21,
+      "category_id": 1,
+      "segmentation": [],
+      "area": 96094.803,
+      "bbox": [
+        340.8,
+        134.95,
+        175.66,
+        547.05
+      ],
+      "iscrowd": 0,
+      "attributes": {
+        "conf": "0.79",
+        "can_review": false,
+        "occluded": false,
+        "rotation": 0.0
+      }
+    },
+    {
+      "id": 496,
+      "image_id": 21,
+      "category_id": 2,
+      "segmentation": [],
+      "area": 200920.3208,
+      "bbox": [
+        243.8,
+        332.0,
+        577.49,
+        347.92
+      ],
+      "iscrowd": 0,
+      "attributes": {
+        "conf": "0.25",
+        "can_review": false,
+        "occluded": false,
+        "rotation": 0.0
+      }
+    },
+    {
+      "id": 497,
+      "image_id": 21,
+      "category_id": 1,
+      "segmentation": [],
+      "area": 37444.23340000002,
+      "bbox": [
+        902.88,
+        206.27,
+        120.94,
+        309.61
+      ],
+      "iscrowd": 0,
+      "attributes": {
+        "conf": "0.93",
+        "can_review": false,
+        "occluded": false,
+        "rotation": 0.0
+      }
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "person",
+      "supercategory": ""
+    },
+    {
+      "id": 2,
+      "name": "bicycle",
+      "supercategory": ""
+    },
+    {
+      "id": 3,
+      "name": "motorbike",
+      "supercategory": ""
+    },
+    {
+      "id": 4,
+      "name": "car",
+      "supercategory": ""
+    },
+    {
+      "id": 5,
+      "name": "bus",
+      "supercategory": ""
+    },
+    {
+      "id": 6,
+      "name": "truck",
+      "supercategory": ""
+    },
+    {
+      "id": 7,
+      "name": "three_wheeler",
+      "supercategory": ""
+    },
+    {
+      "id": 8,
+      "name": "ignore_region",
+      "supercategory": ""
+    }
+  ]
+}
