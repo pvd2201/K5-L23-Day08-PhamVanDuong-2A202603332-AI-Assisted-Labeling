@@ -5,7 +5,7 @@
 - Lớp (L2 / L3 / khác): L2B
 - Tài khoản GitHub: pvd2201
 - Repo bài nộp (URL): https://github.com/pvd2201/K5-L23-Day08-PhamVanDuong-2A202603332-AI-Assisted-Labeling
-- Commit chốt bài (hash): Chưa chốt; ghi sau commit cuối.
+- Commit chốt bài (hash): 735df1f3c73d241be655bbf5099fc339adb56a21
 - Máy: Windows 11; Intel Iris Xe và NVIDIA GeForce MX550 (2 GB). PyTorch trong `.venv` là bản CPU-only; các lần chạy đã ghi dùng CPU.
 - CVAT (Docker): v2.81.0.
 
